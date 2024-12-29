@@ -1,0 +1,1801 @@
+[
+    {
+        "pair": [
+            "change linguistic",
+            "korean language"
+        ],
+        "cooccurence_frequency": 3
+    },
+    {
+        "pair": [
+            "korean",
+            "korean language"
+        ],
+        "cooccurence_frequency": 3
+    },
+    {
+        "pair": [
+            "korean culture",
+            "korean language"
+        ],
+        "cooccurence_frequency": 3
+    },
+    {
+        "pair": [
+            "language landscape",
+            "new language"
+        ],
+        "cooccurence_frequency": 3
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "cultural changes"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "city space",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "korean language"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "internationalization higher",
+            "internationalizing universities"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "internationalization higher",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "internationalization higher",
+            "multilingualism shaping"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "internationalizing universities",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "internationalizing universities",
+            "multilingualism shaping"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "japanese language",
+            "japanese linguistic"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "japanese signboard",
+            "sign japanese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "japanese signboard",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "korean",
+            "korean words"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "korean language",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "korean language",
+            "study korean"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "language cultural",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "language korean",
+            "use korean"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "language landscape",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "multilingual environment",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "multilingualism",
+            "multilingualism shaping"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "sign japanese",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 2
+    },
+    {
+        "pair": [
+            "announcement language",
+            "change linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "announcement language",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "approach korean",
+            "city space"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "approach korean",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "approach korean",
+            "korean language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "approach korean",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "church city"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "community metrolingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "describes survey"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "internationalization higher"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "outdoor advertising"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "area multilingualism",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "campus multilingual",
+            "multilingual environment"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "campus multilingual",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "campus multilingual",
+            "multilingualism linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "korean shop"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "language service"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "change linguistic",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "chinatown framework",
+            "road sign"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "chinatown framework",
+            "sign linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "chinatown framework",
+            "signboard language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "chinese feel",
+            "japanese restaurant"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "church city",
+            "community metrolingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city seoul",
+            "city space"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city seoul",
+            "cultural changes"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city seoul",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city seoul",
+            "linguistic interpretation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city seoul",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "grave village"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "landscape structure"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "linguistic interpretation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "representation village"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "city space",
+            "streetscape useful"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "content linguistic",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "content linguistic",
+            "sense place"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "content linguistic",
+            "word memorizing"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "landscape structure"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "language instructional"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "linguistic interpretation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "new language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "semiotics street"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "contrasted sociolinguistic",
+            "socio linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "japanese popular"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "landscape japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "multilingual society"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "society linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "socio linguistics"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "streetscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "cultural changes",
+            "town yokai"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "death village",
+            "increased japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "death village",
+            "japanese language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "describes survey",
+            "internationalization higher"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "describes survey",
+            "outdoor advertising"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign signage",
+            "internationalizing universities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign signage",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign signage",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign signage",
+            "road sign"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign signage",
+            "sign linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign tourist",
+            "japanese linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign tourist",
+            "korean linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "foreign tourist",
+            "korean translation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "grave village",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "grave village",
+            "representation village"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "increased japanese",
+            "japanese language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "intercultural communication",
+            "language cultural"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "intercultural communication",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "intercultural communication",
+            "occupation korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "internationalization higher",
+            "outdoor advertising"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "internationalizing universities",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "interpretation land",
+            "sense place"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese colonial",
+            "landscape japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese english",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese english",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese korean",
+            "japanese linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese korean",
+            "japanese restaurant"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese korean",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese korean",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese language",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese language",
+            "multilingual society"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese language",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese language",
+            "using japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "japanese restaurant"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "korean linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "korean translation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "landscape japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "language service"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "languagewords difference"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "multilingual society"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "sign japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese linguistic",
+            "using japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese popular",
+            "landscape japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese popular",
+            "town yokai"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese restaurant",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese signboard",
+            "korean words"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese signboard",
+            "marking korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "japanese signboard",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "korean cities"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "languagedistribution signboard"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "multilingual"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "multilingualism shaping"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "sign japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean cities",
+            "language service"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean cities",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean cities",
+            "sign japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean cities",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean city",
+            "korean culture"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean city",
+            "korean danish"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean culture",
+            "korean danish"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean culture",
+            "korean linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean culture",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean culture",
+            "study korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean expression",
+            "language korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean expression",
+            "problem koreanwords"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean expression",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "korean words"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "language cultural"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "new language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "teaching korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean language",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean linguistic",
+            "korean translation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean linguistic",
+            "language korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean linguistic",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean linguistic",
+            "socio linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean shop",
+            "language service"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean shop",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean word",
+            "language korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean word",
+            "multilingualism message"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean word",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean words",
+            "languagedistribution signboard"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "korean words",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape japanese",
+            "languagewords difference"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape japanese",
+            "town yokai"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape language",
+            "language teaching"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape language",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape language",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape structure",
+            "language landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape structure",
+            "new language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "landscape structure",
+            "streetscape useful"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language cultural",
+            "meaning village"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language cultural",
+            "occupation korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language instructional",
+            "linguistic interpretation"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language instructional",
+            "multilingual environment"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language instructional",
+            "multilingual sign"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language instructional",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language instructional",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language korean",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language korean",
+            "multilingualism message"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language korean",
+            "problem koreanwords"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language korean",
+            "socio linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "multilingual environment"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "multilingual society"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "socio linguistics"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language landscape",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language service",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language service",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language teaching",
+            "linguistic landscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "language teaching",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic",
+            "study korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic",
+            "teaching korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic interpretation",
+            "proposes linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic interpretation",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic interpretation",
+            "signage chinese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "occupation korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "representation village"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "sense place"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "sign linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "socio linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "use japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "use language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic landscape",
+            "word memorizing"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic strategy",
+            "multilingualism message"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic strategy",
+            "pragmatic imagification"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "linguistic strategy",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "marking korean",
+            "sign japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "marking korean",
+            "signboard japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "method research",
+            "proposes linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual",
+            "multilingualism"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual",
+            "multilingualism korea"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual environment",
+            "multilingual sign"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual environment",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual environment",
+            "multilingualism linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual environment",
+            "progress multilingualization"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual sign",
+            "multilingual signage"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual signage",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual society",
+            "socio linguistics"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingual society",
+            "using japanese"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism",
+            "multilingualism korea"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism",
+            "multilingualism linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism",
+            "new language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism",
+            "progress multilingualization"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism message",
+            "pragmatic imagification"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism message",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "multilingualism message",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "new language",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "pragmatic imagification",
+            "semantic misuse"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "problem koreanwords",
+            "use korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "road sign",
+            "sign linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "road sign",
+            "signboard language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "semiotics street",
+            "socio linguistic"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "sense place",
+            "word memorizing"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "sign linguistic",
+            "signboard language"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "society linguistic",
+            "streetscape"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "study korean",
+            "teaching korean"
+        ],
+        "cooccurence_frequency": 1
+    },
+    {
+        "pair": [
+            "use japanese",
+            "using japanese"
+        ],
+        "cooccurence_frequency": 1
+    }
+]
