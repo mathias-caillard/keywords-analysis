@@ -47,9 +47,9 @@ To generate keywords from an abstract, I use ``KeyBERT``, which is a keyword ext
 
 Once we have keywords for each article, I consider the co-occurrences of those keywords per article. For example, let's consider that ``article 1`` is associated with keywords ``A``, ``B``, and ``C``. and ``article 2`` is associated with keywords ``A``, ``B``, and ``D``. Considering those two articles, the co-occurrence of ``A`` with ``B`` (or ``B`` with ``A``) is two.
 
-However, one major issue is that keywords are "too unique", in the sense that _stricto sensu_ co-occurrences are too rare. It is clear that ``linguistics`` and ``linguistic`` are basically the same keywords, though they are wrongly considered to be different,  because their ``String`` representation are different. The direct consequence of it is a co-occurrence matrix that is too sparse
+However, one major issue is that keywords are "too unique", in the sense that _stricto sensu_ co-occurrences are too rare. It is clear that ``linguistics`` and ``linguistic`` are basically the same keywords, though they are wrongly considered to be different,  because their ``String`` representation are different. The direct consequence of it is a co-occurrence matrix that is too sparse.
 
-Sparse matrices result in sparsely connected graphs, which can hinder the detection of meaningful clusters, which doesn't enough highlight the correlation between thematics related to linguistic landscape.
+Sparse matrices result in sparsely connected graphs, which can hinder the detection of meaningful clusters, which doesn't enough highlight the correlation between thematic clusters related to linguistic landscape.
 
 
 ### Canonicalization of co-occurrences
@@ -86,7 +86,7 @@ Results can be visualized using a co-occurrence graph:
 
 The thicker the edge, the higher the co-occurrence between the keywords are, within the given input data (metadata articles).
 
-Each color represents a thematic cluster. Thematics can be identified using a ``Louvain clustering`` algorithm, which compute the partition of the graph that maximizes its modularity (be taking into account the density of edges connected to nodes).
+Each color represents a thematic cluster. Clusters can be identified using a ``Louvain clustering`` algorithm, which compute the partition of the graph that maximizes its modularity (be taking into account the density of edges connected to nodes).
 
 As you can see, the dark blue cluster is mostly about multilingualism, whereas the yellow one is mostly about Koran language
 
