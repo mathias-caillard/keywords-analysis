@@ -81,7 +81,7 @@ Only considering umbrella keywords reduces the dimensions of the co-occurrence m
 Results can be visualized using a co-occurrence graph: 
 
 
-![Alt text](.\output\cooccurrence_graph_keywords_canonicalized.png)
+![Alt text](./output/cooccurrence_graph_keywords_canonicalized.png)
 
 
 The thicker the edge, the higher the co-occurrence between the keywords are, within the given input data (metadata articles).
